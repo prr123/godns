@@ -16,5 +16,11 @@ usage: nsRecCf domain
 
 simple program that reads the TXT records of the domain facebook.com
 
+## dnsRecLookup
+
+program that lists all DNS Records of a domain.
+
+usage: dnsRecLookup domain provider
+
 ## Acme Test
  
