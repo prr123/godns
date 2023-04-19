@@ -22,5 +22,10 @@ program that lists all DNS Records of a domain.
 
 usage: dnsRecLookup domain provider
 
-## Acme Test
+## acmeDnsRec
+
+program that checks for the acme DNS challenge record
+
+usage: acmeDnsRec domain
+
  
